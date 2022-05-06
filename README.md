@@ -29,4 +29,4 @@ Estudante Desenvolvimento Web
 
 <a href="http://www.github.com/Keven-kniggendorf"><img src="https://github-readme-stats.vercel.app/api?username=Keven-kniggendorf&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Keven-kniggendorf's GitHub stats" /></a>
 <a href="https://github.com/keven-kniggendorf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-brito&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-kniggendorf&layout=compact&langs_count=7&theme=dark"/>
