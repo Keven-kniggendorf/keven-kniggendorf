@@ -6,7 +6,7 @@ Estudante Desenvolvimento Web
 
 * 🌍  I'm based in Curitiba - Paraná - Brasil
 * ✉️  You can contact me at [kevenkniggendorf@gmail.com](mailto:kevenkniggendorf@gmail.com)
-* 🧠  I'm learning Html - css - Javascript - Java - Python
+* 🧠  I'm learning Html - css - Javascript - Java
 
 ### Skills
 
