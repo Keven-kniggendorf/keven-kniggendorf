@@ -27,9 +27,9 @@ Desenvolvedor back-end apaixonado por desafios e inovação. Programo em Java, P
 </p>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="330"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keven-kniggendorf&theme=vue-dark&hide_border=true" width="330"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="330"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="30%"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keven-kniggendorf&theme=vue-dark&hide_border=true" width="30%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="30%"/> 
 </div>
 
 -----------------------------
