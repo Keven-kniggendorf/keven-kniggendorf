@@ -26,6 +26,12 @@ Desenvolvedor back-end apaixonado por desafios e inovação. Programo em Java, P
         <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="spring" width="40" height="40"/> </a> 
 </p>
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="330"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keven-kniggendorf&theme=vue-dark&hide_border=true" width="330"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="330"/> 
+</div>
+
 -----------------------------
 
 <h3 align="center">Redes Sociais</h3>
