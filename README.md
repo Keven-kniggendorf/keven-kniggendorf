@@ -6,7 +6,7 @@
 <h3 align="center">Back End Developer</h3>
 
 -----------------------------
-Desenvolvedor back-end apaixonado por desafios e inovação. Programo em Java, PLSQL, SoapUI, REST e atualmente trabalhando com código legado em Centura. Curso Análise e Desenvolvimento de Sistemas no Paraná. Aficionado por cybersegurança, basquete e videogame.
+Desenvolvedor back-end apaixonado por desafios e inovação. Programo em Java, PLSQL, SoapUI, REST e tendo atuado com código legado em Centura por mais de um ano. Curso Análise e Desenvolvimento de Sistemas em São Paulo.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
