@@ -26,6 +26,23 @@ Desenvolvedor back-end apaixonado por desafios e inovação. Programo em Java, P
         <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="spring" width="40" height="40"/> </a> 
 </p>
 
+<br>
+
+#### Learning:
+<div>
+<img height="48px" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+<img height="48px" width="48px" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img height="48px" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img height="48px" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+</div>
+
+#### Interests:
+<div>         
+<img height="48px" src="https://skillicons.dev/icons?i=ruby,rails,wordpress,webflow" />
+</div>
+
+<br>
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=keven-kniggendorf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="30%"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=keven-kniggendorf&theme=vue-dark&hide_border=true" width="30%"/> 
