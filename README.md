@@ -6,7 +6,7 @@
 <h3 align="center">Back End Developer</h3>
 
 -----------------------------
-Desenvolvedor back-end apaixonado por desafios e inovação. Programo na linguagem Java, utilizando ferramentas e bancos de dados como: PLSQL, SoapUI, REST e tendo atuado com código legado em Centura por mais de um ano. Curso Análise e Desenvolvimento de Sistemas em São Paulo.
+Sou desenvolvedor back-end apaixonado por desafios e inovação, com experiência em Java nas versões 11 e 17. Trabalho com bancos de dados e ferramentas como PL/SQL, REST e SoapUI, além de ter atuado por mais de um ano com código legado em Centura. Atualmente, estou aprendendo sobre automação de fluxos com N8N, buscando ampliar meus conhecimentos em integrações e eficiência de processos. Curso Análise e Desenvolvimento de Sistemas em São Paulo e estou sempre em busca de evoluir tecnicamente e contribuir para soluções que gerem impacto.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
