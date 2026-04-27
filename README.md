@@ -6,7 +6,7 @@
 <h3 align="center">Back End Developer</h3>
 
 -----------------------------
-Sou desenvolvedor back-end apaixonado por desafios e inovação, com experiência em Java nas versões 11 e 17. Trabalho com bancos de dados e ferramentas como PL/SQL, REST e SoapUI, além de ter atuado por mais de um ano com código legado em Centura. Atualmente, estou aprendendo sobre automação de fluxos com N8N, buscando ampliar meus conhecimentos em integrações e eficiência de processos. Curso Análise e Desenvolvimento de Sistemas em São Paulo e estou sempre em busca de evoluir tecnicamente e contribuir para soluções que gerem impacto.
+Sou desenvolvedor back-end e profissional certificado como SailPoint Identity Security Professional, com forte foco em Gestão de Identidade e Acessos (IAM) e conectividade de sistemas. Minha base técnica inclui experiência sólida em Java (11/17), integrações (REST, SoapUI), bancos de dados (PL/SQL) e vivência com código legado (Centura). Atualmente curso Análise e Desenvolvimento de Sistemas em São Paulo e estou explorando automações de fluxos com N8N. Busco sempre unir engenharia de software e segurança para construir soluções de alto impacto.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
